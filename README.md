@@ -2,7 +2,7 @@
   <!-- Commented out banner image -->
   <!-- <img src="./banner.png" alt="Banner" width="100%"> -->
   
-  <img src="vinland-saga.gif" alt="Vinland Saga" width="250">
+  <!-- <img src="vinland-saga.gif" alt="Vinland Saga" width="250"> -->
   
   <h2>
   <img src="catjam-cat.gif" alt="Cat Jam">
