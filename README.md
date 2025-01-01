@@ -12,13 +12,14 @@
   </h2>
   
   <br/>
-
+</div>
  <!-- <div  align="center">
         <img src="devs.gif" alt="devs" style="border-radius:20px">
 </div> -->
 # no more yapping, this is my PoW
-</div>
 ### web3 [dApps&&tools]
+- [HandleCheck](https://github.com/4rjunc/HandleCheck) - Social verification simplified 
+
 <div align="left">  
   <ul>
     <li><h3>🚀 Project Name</h3>
