@@ -19,7 +19,7 @@
 
 ## no more yapping, this is my PoW
 ### web3 [dApps&tools]
-- [HandleCheck](https://github.com/4rjunc/HandleCheck) - Social verification simplified 
+- [HandleCheck](https://github.com/4rjunc/HandleCheck) - Telegram mini app to simply social verifications - [TMA, Reactjs, Reclaim SDK]
 
 <div align="left">  
   <ul>
