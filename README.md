@@ -18,7 +18,7 @@
 </div> -->
 
 ## no more yapping, this is my PoW
-### web3 [dApps&&tools]
+### web3 [dApps&tools]
 - [HandleCheck](https://github.com/4rjunc/HandleCheck) - Social verification simplified 
 
 <div align="left">  
