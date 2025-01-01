@@ -1,3 +1,4 @@
+<div>
 <div align="center">
   <!-- Commented out banner image -->
   <!-- <img src="./banner.png" alt="Banner" width="100%"> -->
@@ -16,6 +17,7 @@
         <img src="devs.gif" alt="devs" style="border-radius:20px">
 </div> -->
 # no more yapping, this is my PoW
+</div>
 ### web3 [dApps&&tools]
 <div align="left">  
   <ul>
