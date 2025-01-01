@@ -17,31 +17,24 @@
 </div> -->
 no more yapping, this is my PoW
 <div align="left">  
-    <br/>
-    
-    <div class="project">
-      <h3>🚀 Project Name</h3>
+  <ul>
+    <li><h3>🚀 Project Name</h3>
       <p>Short and sweet description of what your project does and why it's cool.</p>
       <p>
         <strong>Tech Stack:</strong> 
         <code>React</code> • 
         <code>Node.js</code> • 
         <code>MongoDB</code>
-      </p>
-    </div>
-    
-    <br/>
-    
-    <div class="project">
-      <h3>⚡ Another Project</h3>
-      <p>Brief explanation that hooks readers in two lines max.</p>
+      </p></li>
+    <li><h3>🚀 Project Name</h3>
+      <p>Short and sweet description of what your project does and why it's cool.</p>
       <p>
         <strong>Tech Stack:</strong> 
-        <code>Python</code> • 
-        <code>FastAPI</code> • 
-        <code>PostgreSQL</code>
-      </p>
-    </div>
+        <code>React</code> • 
+        <code>Node.js</code> • 
+        <code>MongoDB</code>
+      </p></li>
+  </ul>
   </div>
 <img src="meow.gif" alt="Meow">
 </div>
