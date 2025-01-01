@@ -18,28 +18,34 @@
 </div> -->
 
 ## no more yapping, this is my PoW
-### web3 [dApps&tools]
+### web3 [dApps & tools]
 - [HandleCheck](https://github.com/4rjunc/HandleCheck) - Telegram mini app to simply social verifications - [TMA, Reactjs, Reclaim SDK]
+- [Solana Programs](https://github.com/4rjunc/solana-programs-list) - Create your contact card as NFT - [Rust, Anchor, Solana]
+- [Soonscan](https://github.com/4rjunc/soonscan) - TUI for exploring blocks in SOON Blockchain - [Rust, SOON]
+- [Sournal](https://github.com/4rjunc/SOURNAL) - journal dApp built on Solana - [NEXTjs, Rust, Anchor, Solana]
+- [cNFT](https://github.com/4rjunc/cNFT) - Create your contact card as NFT - [Javascript, Supabase, Metaplex, Solana]
+- [StakeStep](https://github.com/4rjunc/StakeStep) - dApp to build habits - [NEXTjs, Solidity, Ethereum]
+- [solcamNFT](https://github.com/4rjunc/solcamNFT) - mints an NFT with that image you capture - [Expo, spl-token, @solana/web3.js, Solana]
+- [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [Reactjs, @solana/pay, @solana/web3.js]
+- [Carbon](https://github.com/4rjunc/solanapay-demo) - Decentralized Scientific Data Marketplace - [Reactjs, ethers, Ethereum]
+- [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [reactjs, @solana/pay, @solana/web3.js]
+- [TokenForge](https://github.com/4rjunc/TokenForge) - Mint, Burn tokens in solana - [Reactjs, @solana/spl-token, @solana/web3.js]
+- [SolanaSwift](https://github.com/4rjunc/SolanaSwift) - A quick and efficient Solana wallet CLI - [Typescript, @solana/web3.js]
 
-<div align="left">  
-  <ul>
-    <li><h3>🚀 Project Name</h3>
-      <p>Short and sweet description of what your project does and why it's cool.</p>
-      <p>
-        <strong>Tech Stack:</strong> 
-        <code>React</code> • 
-        <code>Node.js</code> • 
-        <code>MongoDB</code>
-      </p></li>
-    <li><h3>🚀 Project Name</h3>
-      <p>Short and sweet description of what your project does and why it's cool.</p>
-      <p>
-        <strong>Tech Stack:</strong> 
-        <code>React</code> • 
-        <code>Node.js</code> • 
-        <code>MongoDB</code>
-      </p></li>
-  </ul>
-  </div>
+
+
+### web2 [apps & tools]
+- [KrishiSahay](https://github.com/4rjunc/KrishiSahay) - Whatsapp bot for plant disease detection - [Python, Tensorflow, MetaAPI, SQLlite3]
+- [Opencourse Management](https://github.com/4rjunc/opencourse-webapp) - Webapp to simplify opencourse allotement - [Reactjs, Django, MySql]
+- [Turtle](https://github.com/4rjunc/turtle) - Chrome extenstion with advance bookmarking feature - [Reactjs, Axios, Baserow]
+- [Pennnywise](https://github.com/4rjunc/pennywise) - Desktop tool for expense calculation build using RUST - [Rust, Slint]
+- [Rust Jokes](https://github.com/4rjunc/rustjokes) - Simple rust server which respond with random jokes - [Rust, Shuttle, Actix web]
+- [Rust Multithread Server](https://github.com/4rjunc/rust-web-server) - Multithreaded webserver using rust - [Rust]
+- [Plotpicker](https://github.com/4rjunc/PlotPicker) - PlotPicker is app for book recommendations - [Python, Streamlit, Numpy, Pandas]
+- [Bonappetit](https://github.com/4rjunc/bonappetit) - Reactapp which displays recipes for the items searched - [Reactjs]
+- [Contact Manager](https://github.com/4rjunc/Contact-Manager-App) - Express app for contact management - [Javascript, Express.js, MongoDB]
+
+
+
 <img src="meow.gif" alt="Meow">
 </div>
