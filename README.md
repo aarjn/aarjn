@@ -17,7 +17,7 @@
         <img src="devs.gif" alt="devs" style="border-radius:20px">
 </div> -->
 
-# no more yapping, this is my PoW
+## no more yapping, this is my PoW
 ### web3 [dApps&&tools]
 - [HandleCheck](https://github.com/4rjunc/HandleCheck) - Social verification simplified 
 
