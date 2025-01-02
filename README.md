@@ -19,31 +19,30 @@
 
 ## no more yapping, this is my PoW
 ### web3 [dApps & tools]
-- [HandleCheck](https://github.com/4rjunc/HandleCheck) - Telegram mini app to simply social verifications - [TMA, Reactjs, Reclaim SDK]
-- [Solana Programs](https://github.com/4rjunc/solana-programs-list) - Create your contact card as NFT - [Rust, Anchor, Solana]
-- [Soonscan](https://github.com/4rjunc/soonscan) - TUI for exploring blocks in SOON Blockchain - [Rust, SOON]
-- [Sournal](https://github.com/4rjunc/SOURNAL) - journal dApp built on Solana - [NEXTjs, Rust, Anchor, Solana]
-- [cNFT](https://github.com/4rjunc/cNFT) - Create your contact card as NFT - [Javascript, Supabase, Metaplex, Solana]
-- [StakeStep](https://github.com/4rjunc/StakeStep) - dApp to build habits - [NEXTjs, Solidity, Ethereum]
-- [solcamNFT](https://github.com/4rjunc/solcamNFT) - mints an NFT with that image you capture - [Expo, spl-token, @solana/web3.js, Solana]
-- [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [Reactjs, @solana/pay, @solana/web3.js]
-- [Carbon](https://github.com/4rjunc/solanapay-demo) - Decentralized Scientific Data Marketplace - [Reactjs, ethers, Ethereum]
-- [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [reactjs, @solana/pay, @solana/web3.js]
-- [TokenForge](https://github.com/4rjunc/TokenForge) - Mint, Burn tokens in solana - [Reactjs, @solana/spl-token, @solana/web3.js]
-- [SolanaSwift](https://github.com/4rjunc/SolanaSwift) - A quick and efficient Solana wallet CLI - [Typescript, @solana/web3.js]
-
-
+- [HandleCheck](https://github.com/4rjunc/HandleCheck) - Telegram mini app to simply social verifications - [[TMA](https://core.telegram.org/bots/webapps), [React.js](https://reactjs.org/), [Reclaim SDK](https://docs.reclaimprotocol.org/)]
+- [Solana Programs](https://github.com/4rjunc/solana-programs-list) - Create your contact card as NFT - [[Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
+- [Soonscan](https://github.com/4rjunc/soonscan) - TUI for exploring blocks in SOON Blockchain - [[Rust](https://www.rust-lang.org/), SOON]
+- [Sournal](https://github.com/4rjunc/SOURNAL) - journal dApp built on Solana - [[Next.js](https://nextjs.org/), [Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
+- [cNFT](https://github.com/4rjunc/cNFT) - Create your contact card as NFT - [[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Supabase](https://supabase.com/), [Metaplex](https://www.metaplex.com/), [Solana](https://solana.com/)]
+- [StakeStep](https://github.com/4rjunc/StakeStep) - dApp to build habits - [[Next.js](https://nextjs.org/), [Solidity](https://docs.soliditylang.org/), [Ethereum](https://ethereum.org/)]
+- [solcamNFT](https://github.com/4rjunc/solcamNFT) - mints an NFT with that image you capture - [[Expo](https://expo.dev/), [SPL Token](https://spl.solana.com/token), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/), [Solana](https://solana.com/)]
+- [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [[React.js](https://reactjs.org/), [@solana/pay](https://docs.solanapay.com/), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
+- [Carbon](https://github.com/4rjunc/solanapay-demo) - Decentralized Scientific Data Marketplace - [[React.js](https://reactjs.org/), [ethers.js](https://docs.ethers.org/), [Ethereum](https://ethereum.org/)]
+- [TokenForge](https://github.com/4rjunc/TokenForge) - Mint, Burn tokens in solana - [[React.js](https://reactjs.org/), [@solana/spl-token](https://spl.solana.com/token), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
+- [SolanaSwift](https://github.com/4rjunc/SolanaSwift) - A quick and efficient Solana wallet CLI - [[TypeScript](https://www.typescriptlang.org/), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
 
 ### web2 [apps & tools]
-- [KrishiSahay](https://github.com/4rjunc/KrishiSahay) - Whatsapp bot for plant disease detection - [Python, Tensorflow, MetaAPI, SQLlite3]
-- [Opencourse Management](https://github.com/4rjunc/opencourse-webapp) - Webapp to simplify opencourse allotement - [Reactjs, Django, MySql]
-- [Turtle](https://github.com/4rjunc/turtle) - Chrome extenstion with advance bookmarking feature - [Reactjs, Axios, Baserow]
-- [Pennnywise](https://github.com/4rjunc/pennywise) - Desktop tool for expense calculation build using RUST - [Rust, Slint]
-- [Rust Jokes](https://github.com/4rjunc/rustjokes) - Simple rust server which respond with random jokes - [Rust, Shuttle, Actix web]
-- [Rust Multithread Server](https://github.com/4rjunc/rust-web-server) - Multithreaded webserver using rust - [Rust]
-- [Plotpicker](https://github.com/4rjunc/PlotPicker) - PlotPicker is app for book recommendations - [Python, Streamlit, Numpy, Pandas]
-- [Bonappetit](https://github.com/4rjunc/bonappetit) - Reactapp which displays recipes for the items searched - [Reactjs]
-- [Contact Manager](https://github.com/4rjunc/Contact-Manager-App) - Express app for contact management - [Javascript, Express.js, MongoDB]
+- [KrishiSahay](https://github.com/4rjunc/KrishiSahay) - Whatsapp bot for plant disease detection - [[Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/), [Meta API](https://developers.facebook.com/docs/whatsapp/), [SQLite3](https://www.sqlite.org/)]
+- [Opencourse Management](https://github.com/4rjunc/opencourse-webapp) - Webapp to simplify opencourse allotement - [[React.js](https://reactjs.org/), [Django](https://www.djangoproject.com/), [MySQL](https://www.mysql.com/)]
+- [Turtle](https://github.com/4rjunc/turtle) - Chrome extenstion with advance bookmarking feature - [[React.js](https://reactjs.org/), [Axios](https://axios-http.com/), [Baserow](https://baserow.io/)]
+- [Pennnywise](https://github.com/4rjunc/pennywise) - Desktop tool for expense calculation build using RUST - [[Rust](https://www.rust-lang.org/), [Slint](https://slint-ui.com/)]
+- [Rust Jokes](https://github.com/4rjunc/rustjokes) - Simple rust server which respond with random jokes - [[Rust](https://www.rust-lang.org/), [Shuttle](https://www.shuttle.rs/), [Actix web](https://actix.rs/)]
+- [Rust Multithread Server](https://github.com/4rjunc/rust-web-server) - Multithreaded webserver using rust - [[Rust](https://www.rust-lang.org/)]
+- [Plotpicker](https://github.com/4rjunc/PlotPicker) - PlotPicker is app for book recommendations - [[Python](https://www.python.org/), [Streamlit](https://streamlit.io/), [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)]
+- [Bonappetit](https://github.com/4rjunc/bonappetit) - Reactapp which displays recipes for the items searched - [[React.js](https://reactjs.org/)]
+- [Contact Manager](https://github.com/4rjunc/Contact-Manager-App) - Express app for contact management - [[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Express.js](https://expressjs.com/), [MongoDB](https://www.mongodb.com/)]
+
+
 
 ---
 
