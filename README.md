@@ -45,6 +45,18 @@
 - [Bonappetit](https://github.com/4rjunc/bonappetit) - Reactapp which displays recipes for the items searched - [Reactjs]
 - [Contact Manager](https://github.com/4rjunc/Contact-Manager-App) - Express app for contact management - [Javascript, Express.js, MongoDB]
 
+---
+
+<div align="center">
+
+### Tech Stack
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+</div>
 
 
 <img src="meow.gif" alt="Meow">
