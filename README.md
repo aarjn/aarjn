@@ -25,6 +25,7 @@
 - [Sournal](https://github.com/4rjunc/SOURNAL) - journal dApp built on Solana - [[Next.js](https://nextjs.org/), [Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
 - [cNFT](https://github.com/4rjunc/cNFT) - Create your contact card as NFT - [[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Supabase](https://supabase.com/), [Metaplex](https://www.metaplex.com/), [Solana](https://solana.com/)]
 - [StakeStep](https://github.com/4rjunc/StakeStep) - dApp to build habits - [[Next.js](https://nextjs.org/), [Solidity](https://docs.soliditylang.org/), [Ethereum](https://ethereum.org/)]
+- [Vault Manager](https://github.com/4rjunc/vault-manager) - Vault to store your SPL tokesn - [[Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
 - [solcamNFT](https://github.com/4rjunc/solcamNFT) - mints an NFT with that image you capture - [[Expo](https://expo.dev/), [SPL Token](https://spl.solana.com/token), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/), [Solana](https://solana.com/)]
 - [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [[React.js](https://reactjs.org/), [@solana/pay](https://docs.solanapay.com/), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
 - [Carbon](https://github.com/4rjunc/carbon) - Decentralized Scientific Data Marketplace - [[React.js](https://reactjs.org/), [ethers.js](https://docs.ethers.org/), [Ethereum](https://ethereum.org/)]
