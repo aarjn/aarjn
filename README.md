@@ -27,7 +27,7 @@
 - [StakeStep](https://github.com/4rjunc/StakeStep) - dApp to build habits - [[Next.js](https://nextjs.org/), [Solidity](https://docs.soliditylang.org/), [Ethereum](https://ethereum.org/)]
 - [solcamNFT](https://github.com/4rjunc/solcamNFT) - mints an NFT with that image you capture - [[Expo](https://expo.dev/), [SPL Token](https://spl.solana.com/token), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/), [Solana](https://solana.com/)]
 - [Banana Pay](https://github.com/4rjunc/solanapay-demo) - Demo webapp to showcase solana pay - [[React.js](https://reactjs.org/), [@solana/pay](https://docs.solanapay.com/), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
-- [Carbon]([https://github.com/4rjunc/solanapay-demo](https://github.com/4rjunc/carbon)) - Decentralized Scientific Data Marketplace - [[React.js](https://reactjs.org/), [ethers.js](https://docs.ethers.org/), [Ethereum](https://ethereum.org/)]
+- [Carbon](https://github.com/4rjunc/carbon) - Decentralized Scientific Data Marketplace - [[React.js](https://reactjs.org/), [ethers.js](https://docs.ethers.org/), [Ethereum](https://ethereum.org/)]
 - [TokenForge](https://github.com/4rjunc/TokenForge) - Mint, Burn tokens in solana - [[React.js](https://reactjs.org/), [@solana/spl-token](https://spl.solana.com/token), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
 - [SolanaSwift](https://github.com/4rjunc/SolanaSwift) - A quick and efficient Solana wallet CLI - [[TypeScript](https://www.typescriptlang.org/), [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/)]
 
