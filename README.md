@@ -19,7 +19,9 @@
 
 ## no more yapping, this is my PoW
 ### web3 [dApps & tools]
+- [Nestfolio](https://github.com/4rjunc/nestfolio) - Create you DAO using telegram bot - [Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/), Telegram Bot]
 - [Solana Programs](https://github.com/4rjunc/solana-programs-list) - Collection of Solana Programs - [[Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
+- [Solidity Smart Contracts](https://github.com/4rjunc/foundry-smart-contracts) - Collection of Solidity Smart Contacts - [[Solidity](https://soliditylang.org/), [Foundry](https://book.getfoundry.sh/), [Hardhat](https://hardhat.org/), Ethereum]
 - [Soonscan](https://github.com/4rjunc/soonscan) - TUI for exploring blocks in SOON Blockchain - [[Rust](https://www.rust-lang.org/), SOON]
 - [Sournal](https://github.com/4rjunc/SOURNAL) - journal dApp built on Solana - [[Next.js](https://nextjs.org/), [Rust](https://www.rust-lang.org/), [Anchor](https://www.anchor-lang.com/), [Solana](https://solana.com/)]
 - [HandleCheck](https://github.com/4rjunc/HandleCheck) - Telegram mini app to simply social verifications - [[TMA](https://core.telegram.org/bots/webapps), [React.js](https://reactjs.org/), [Reclaim SDK](https://docs.reclaimprotocol.org/)]
