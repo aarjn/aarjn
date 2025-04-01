@@ -60,6 +60,6 @@
 ---
 
 <div align="center">
-  <img src="meow.gif" alt="Meow" width="50">
-  <p><i>Thanks for checking out my projects!</i></p>
+  <img src="meow.gif" alt="Meow">
+  <p><i>Thanks for checking out my projects! Have good day ❤️</i></p>
 </div>
