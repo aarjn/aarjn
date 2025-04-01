@@ -2,7 +2,7 @@
   <h1>
     <img src="catjam-cat.gif" alt="Cat Jam" width="30"> &nbsp;My PoW&nbsp; <img src="https://github.com/4rjunc/4rjunc/raw/main/cat.gif" alt="Cat GIF" width="30">
   </h1>
-  <h3>i do software // web3 / rust / solidity // 7x 🏆 hackathon // fellow [@solana](https://x.com/solana) </h3>
+  <h3>i do software // web3 / rust / solidity // 7x 🏆 hackathon // fellow <a href="https://x.com/solana">@solana</a></h3>
   <br/>
 </div>
 
