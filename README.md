@@ -23,6 +23,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Chio](https://github.com/4rjunc/solana-chio) | Setup pinocchio projects blazingly fast | Rust, Solana |
 | [Solana Programs](https://github.com/4rjunc/solana-programs-list) | Collection of Solana Programs | Rust, Anchor, Solana |
 | [Solidity Smart Contracts](https://github.com/4rjunc/foundry-smart-contracts) | Collection of Solidity Smart Contracts | Solidity, Foundry, Hardhat, Ethereum |
 | [Solidity AMM Contract](https://github.com/4rjunc/solidity-amm) | AMM implementation Solidity Smart Contracts | Solidity, Foundry, Hardhat, Ethereum |
