@@ -13,6 +13,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Nestfolio](https://github.com/4rjunc/nestfolio) | Create your DAO using a Telegram bot | Rust, Anchor, Solana, Telegram Bot |
+| [Vybgen](https://github.com/4rjunc/VybGen) | Telegram bot for degens | Typescript, Telegram Bot |
 | [Sournal](https://github.com/4rjunc/SOURNAL) | Journal dApp built on Solana | Next.js, Rust, Anchor, Solana |
 | [HandleCheck](https://github.com/4rjunc/HandleCheck) | Telegram mini app for social verifications | TMA, React.js, Reclaim SDK |
 | [StakeStep](https://github.com/4rjunc/StakeStep) | dApp to build habits through staking | Next.js, Solidity, Ethereum |
