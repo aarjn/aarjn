@@ -26,7 +26,7 @@
 |---------|-------------|--------------|
 | [Chio](https://github.com/4rjunc/solana-chio) | Setup pinocchio projects blazingly fast | Rust, Solana |
 | [Solana Programs](https://github.com/4rjunc/solana-programs-list) | Collection of Solana Programs | Rust, Anchor, Solana |
-| [Solidity Smart Contracts](https://github.com/4rjunc/foundry-smart-contracts) | Collection of Solidity Smart Contracts | Solidity, Foundry, Hardhat, Ethereum |
+| [Ethereum Smart Contracts](https://github.com/4rjunc/evm-smart-contracts) | Collection of Solidity Smart Contracts | Solidity, Foundry, Hardhat, Ethereum |
 | [Solidity AMM Contract](https://github.com/4rjunc/solidity-amm) | AMM implementation Solidity Smart Contracts | Solidity, Foundry, Hardhat, Ethereum |
 | [Soonscan](https://github.com/4rjunc/soonscan) | TUI for exploring blocks in SOON Blockchain | Rust, SOON |
 | [Solana Hello API](https://github.com/4rjunc/solana-hello-api) | REST API for Solana programs | Rust, Anchor, Solana |
