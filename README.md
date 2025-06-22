@@ -8,18 +8,6 @@
 
 ## my builds 🏗️ 
 
-### Web3 Development
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Nestfolio](https://github.com/4rjunc/nestfolio) | Create your DAO using a Telegram bot | Rust, Anchor, Solana, Telegram Bot |
-| [Vybgen](https://github.com/4rjunc/VybGen) | Telegram bot for degens | Typescript, Telegram Bot |
-| [Sournal](https://github.com/4rjunc/SOURNAL) | Journal dApp built on Solana | Next.js, Rust, Anchor, Solana |
-| [HandleCheck](https://github.com/4rjunc/HandleCheck) | Telegram mini app for social verifications | TMA, React.js, Reclaim SDK |
-| [StakeStep](https://github.com/4rjunc/StakeStep) | dApp to build habits through staking | Next.js, Solidity, Ethereum |
-| [cNFT](https://github.com/4rjunc/cNFT) | Create your contact card as NFT | JavaScript, Supabase, Metaplex, Solana |
-| [Carbon](https://github.com/4rjunc/carbon) | Decentralized Scientific Data Marketplace | React.js, ethers.js, Ethereum |
-
 ### Blockchain Tools & Infrastructure
 
 | Project | Description | Technologies |
@@ -32,6 +20,19 @@
 | [Solana Hello API](https://github.com/4rjunc/solana-hello-api) | REST API for Solana programs | Rust, Anchor, Solana |
 | [Vault Manager](https://github.com/4rjunc/vault-manager) | Vault to store your SPL tokens | Rust, Anchor, Solana |
 | [SolanaSwift](https://github.com/4rjunc/SolanaSwift) | Quick and efficient Solana wallet CLI | TypeScript, @solana/web3.js |
+
+
+### Web3 Development
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Nestfolio](https://github.com/4rjunc/nestfolio) | Create your DAO using a Telegram bot | Rust, Anchor, Solana, Telegram Bot |
+| [Vybgen](https://github.com/4rjunc/VybGen) | Telegram bot for degens | Typescript, Telegram Bot |
+| [Sournal](https://github.com/4rjunc/SOURNAL) | Journal dApp built on Solana | Next.js, Rust, Anchor, Solana |
+| [HandleCheck](https://github.com/4rjunc/HandleCheck) | Telegram mini app for social verifications | TMA, React.js, Reclaim SDK |
+| [StakeStep](https://github.com/4rjunc/StakeStep) | dApp to build habits through staking | Next.js, Solidity, Ethereum |
+| [cNFT](https://github.com/4rjunc/cNFT) | Create your contact card as NFT | JavaScript, Supabase, Metaplex, Solana |
+| [Carbon](https://github.com/4rjunc/carbon) | Decentralized Scientific Data Marketplace | React.js, ethers.js, Ethereum |
 
 ### Crypto & NFT Applications
 
