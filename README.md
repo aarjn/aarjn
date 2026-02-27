@@ -39,6 +39,12 @@
 | [Rust Multithread Server](https://github.com/aarjn/rust-web-server) | Multithreaded webserver implementation | Rust |
 | [Contact Manager](https://github.com/aarjn/Contact-Manager-App) | Express app for contact management | JavaScript, Express.js, MongoDB |
 
+## open source contributions 🌱
+
+| Project | PR |
+|---------|-----|
+| | |
+
 ---
 
 <div align="center">
