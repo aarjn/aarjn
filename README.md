@@ -1,27 +1,10 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-  <br/><br/>
-  <img src="catjam-cat.gif" alt="Cat Jam" width="25">
+  <img src="catjam-cat.gif" alt="Cat Jam" width="28">
   <br/>
-  <h3>building things that live onchain</h3>
+  <h3>im spiderman</h3>
   <p>
-    rust addict · solana fellow · 10x hackathon winner · agave contributor
+    rust · solidity · solana fellow · 10x hackathon winner · open source contributor
   </p>
-
-  <a href="https://x.com/AarjunC">
-    <img src="twitter.png" alt="Twitter" width="30">&nbsp;&nbsp;
-  </a>
-  <a href="https://github.com/aarjn">
-    <img src="github.png" alt="GitHub" width="30">&nbsp;&nbsp;
-  </a>
-  <a href="https://linkedin.com/in/aarjn">
-    <img src="linkedin.png" alt="LinkedIn" width="30">&nbsp;&nbsp;
-  </a>
-  <a href="https://instagram.com/aarjn">
-    <img src="instagram.png" alt="Instagram" width="30">
-  </a>
-
-  <br/><br/>
 </div>
 
 ---
@@ -89,5 +72,5 @@
 <div align="center">
   <img src="meow.gif" alt="Meow">
   <br/>
-  <i>thanks for stopping by</i> <img src="cat.gif" alt="Cat" width="20">
+  <i>thanks for stopping by</i> <img src="cat.gif" alt="Cat" width="25">
 </div>
